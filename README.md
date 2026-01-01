@@ -3,5 +3,3 @@ This repository contains a collection of Basic Python logic programs designed to
 
 
 
-def hello(*sir):
-print("Hello")
